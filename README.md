@@ -26,6 +26,8 @@
   声卡 瑞昱  @ 英特尔 Lynx Point-LP  高保真音频
   
   网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕
+  
+  无线网卡 bcm43342 基本无解
 
 ## 使用方法
 
