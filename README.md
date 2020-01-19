@@ -90,6 +90,6 @@ releases 里面有v1.0  v2.0两个版本提供下载
 
 ## License
 
-[MIT](https://github.com/kongbg/k555ld-i5-4210U/issues)
+[MIT](https://github.com/kongbg/asus-k555ld-4210U/issues)
 
 Copyright (c) 2019-present Kongbg
