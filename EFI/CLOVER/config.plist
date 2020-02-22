@@ -220,7 +220,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>-v dart=0 nv_disable=1 kext-dev-mode=1 debug=0x100 -alcoff</string>
+		<string>dart=0 nv_disable=1 kext-dev-mode=1 debug=0x100 -alcoff</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -735,7 +735,7 @@
 				<data>
 				g/8/Dw==
 				</data>
-			</dict>	
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Enable 9MB cursor bytes, 0x0a260006</string>
